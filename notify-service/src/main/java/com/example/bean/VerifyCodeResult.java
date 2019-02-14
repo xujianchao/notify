@@ -1,7 +1,7 @@
 package com.example.bean;
 
 /**
- * 验证码
+ * 验证码1111
  *                       
  * @Filename: VerifyCodeResult.java
  * @Version: 1.0

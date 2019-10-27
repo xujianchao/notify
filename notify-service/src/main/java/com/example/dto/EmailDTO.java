@@ -2,7 +2,7 @@ package com.example.dto;
 
 public class EmailDTO {
 	private String email;//邮箱地址
-	private String subject;//邮箱主题
+	private String subject;//邮箱主题11
 	private String body;//邮箱主体内容
 	public EmailDTO(String email, String subject, String body) {
 		super();

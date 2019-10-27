@@ -1,7 +1,7 @@
 package com.example.bean;
 
 /**
- * 验证码ddd
+ * 验证码dddddddddddd
  *                       
  * @Filename: VerifyCodeResult.java
  * @Version: 1.0
@@ -19,6 +19,7 @@ public class VerifyCodeResult {
     private String  returnstatus;
     private String  taskID;
     private String  verifyCode;
+    private  String test;
 
     public Integer getRemainpoint() {
         return remainpoint;

@@ -9,7 +9,7 @@ import com.example.config.LocalConf;
 public class NotifyServiceApplication {
 
 	public static void main(String[] args) {
-		LocalConf.getInstance();//初始化配置
+		LocalConf.getInstance();//初始化配置11
 		
 		SpringApplication.run(NotifyServiceApplication.class, args);
 	}
